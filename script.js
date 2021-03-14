@@ -31,19 +31,19 @@ function lastfun(){
     if(no2*100/no1==90%){
         alert("your grade is A+");
     }
-    else if(no2*100/no1==80%){
+    else if(no2*100/no1==80){
     alert("your grade is A");
     }
-    else if(no2*100/no1==65%){
+    else if(no2*100/no1==65){
     alert("your grade is B+");
     }
-    else if(no2*100/no1==55%){
+    else if(no2*100/no1==55){
     alert("your grade is B");
     }
-    else if(no2*100/no1==45%){
+    else if(no2*100/no1==45){
     alert("your grade is C");
     }
-    else if(no2*100/no1==33%){
+    else if(no2*100/no1==33){
     alert("your grade is D");
     }
     else{
