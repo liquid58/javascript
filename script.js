@@ -43,7 +43,7 @@ function promptfunction2(){
     else if(no2*100/no1==45){
     alert("your grade is C");
     }
-    else if(no2*100/no1==33);{
+    else if(no2*100/no1==33){
     alert("your grade is D");
     }
     else{
