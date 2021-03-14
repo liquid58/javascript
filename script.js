@@ -14,10 +14,11 @@ function myfunction2(){
   document.getElementById('result').value=result;
 }
 function promptfunction(){
-   var data=prompt("what is your no who u wanna check even or odd");
-    if(data%2==0){
+   var no=prompt("what is your no who u wanna check even or odd");
+    if(no % 2==0){
         alert("hello there, your no is even");
     }
     else{
-        alert("hello there, your no is odd");}
+        alert("hello there, your no is odd");
+    }
 }
