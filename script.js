@@ -15,7 +15,7 @@ function myfunction2(){
 }
 function promptfunction(){
    var data=prompt("what is your no who u wanna check even or odd");
-    if(data/2==0){
+    if(data%2==0){
         alert("hello there, your no is even");
     }
     else{
