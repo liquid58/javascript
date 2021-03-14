@@ -24,10 +24,10 @@ function promptfunction(){
 }
 
 
-function promptfunction2(){
+function myfunction(){
     alert("total marks is:- 500, click okay for next.");
     var no1=500;
-   var no2=prompat("give your obtain marks for check grade.");
+   var no2=prompt("give your obtain marks for check grade.");
     if(no2*100/no1==90){
         alert("your grade is A+");
     }
