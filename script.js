@@ -24,7 +24,7 @@ function promptfunction(){
 }
 
 
-function printfunction(){
+function lastfun(){
     alert("total marks is:- 500, click okay for next.");
     var no1=500;
    var no2=prompt("give your obtain marks for check grade.");
